@@ -5,3 +5,4 @@ print("at the end of the day you are all alone but not lonely , remember karthik
 print("this day needed to be remembered its nothing so dont invest time on that")
 print("everything happening right now is like a mess but i need to adpat to it no matter what with right efforts and practice the journey is like cake walk for me")
 print("believe in yourself everything will change without hardwork")
+print("day 7") 
